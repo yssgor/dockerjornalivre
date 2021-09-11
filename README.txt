@@ -23,5 +23,10 @@ Existem duas formas de instalação:
 	OBS: a pasta do wordpress deve estar na mesma pasta do docker-compose.yml e deve conter o tema conforme esta no github.
 
 
+Usuários e senhas:
+- Ygor – jornallivre13
+- lucas – jornallivre14
+- Bairro – jornallivre15
+
 
 Obrigado!!
